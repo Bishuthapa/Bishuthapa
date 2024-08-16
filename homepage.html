@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Editable JavaScript Webpage</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Editable JavaScript Webpage</h1>
+
+    <p id="outputText" contenteditable="true">Click here to edit this text.</p>
+
+    <button onclick="saveText()">Save Text</button>
+
+    <script>
+        function saveText() {
+            var outputElement = document.getElementById("outputText");
+            var newText = outputElement.textContent;
+            alert("Text saved: " + newText);
+            // You can send the newText to a server or perform any other action with it.
+        }
+    </script>
+
+</body>
+</html>
