@@ -1,3 +1,4 @@
 # I'm Bishesh
-
-[![Bishuthapa GitHub stats](https://github-readme-stats.vercel.app/api?username=Bishuthapa)](https://github.com/Bishuthapa/github-readme-stats)
+<a href="https://github.com/Bishuthapa/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Bishuthapa" />
+</a>
