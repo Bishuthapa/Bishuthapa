@@ -1,7 +1,5 @@
 # I'm Bishu
-<a href="https://github.com/Bishuthapa/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Bishuthapa" />
-</a>
-<a href="https://github.com/Bishuthapa/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bishuthapa&layout=compact&langs_count=8&card_width=320" />
-</a>
+
+![Bishuthapa's Stats](https://github-readme-stats.vercel.app/api?username=Bishuthapa&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Bishuthapa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bishuthapa&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![Bishuthapa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bishuthapa&theme=vue-dark&hide_border=true)
