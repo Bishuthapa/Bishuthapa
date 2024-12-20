@@ -22,7 +22,7 @@
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-# 📊GitHub Stats :
+## 📊GitHub Stats :
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Bishuthapa&theme=prussian&hide_border=false)<br/>
 
