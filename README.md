@@ -1,7 +1,9 @@
 # I'm Bishu 
-##📊 GitHub Stats:
-![Bishuthapa's](https://github-readme-stats.vercel.app/api?username=Bishuthapa&theme=prussian&hide_border=false&include_all_commits=false&count_private=false)
-![Bishuthapa's](https://github-readme-stats.vercel.app/api/top-langs/?username=Bishuthapa&theme=prussian&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Bishuthapa&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bishuthapa&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 # 💫 About Me:-
 🌱 I’m currently learning<br>
 
