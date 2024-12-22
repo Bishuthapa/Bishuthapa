@@ -1,5 +1,4 @@
-# qwertyuioppp[[[]\ASDFGHJKL;'
-zXCVBNM,./asdfghjkl;'zxcvm,./l;xcvbnm,sdfghjkl
+# dhilo vo sathi
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Bishuthapa&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bishuthapa&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
