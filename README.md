@@ -1,1 +1,1 @@
-[![Bishuthapa GitHub stats](https://github-readme-stats.vercel.app/api?username=Bishuthapa)](https://github.com/Bishuthapa/github-readme-stats)
+![bishuthapa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bishuthapa&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
