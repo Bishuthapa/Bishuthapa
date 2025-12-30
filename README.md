@@ -2,5 +2,5 @@
 
 About me
 
-- I'm currently learning - NestJs
+- I'm currently learning - NextJs
 - [site](https://bishesh-thapa.com.np)
