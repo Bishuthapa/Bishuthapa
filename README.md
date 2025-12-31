@@ -1,5 +1,5 @@
 ## Bishu Thapa
-sdf
+
 About mesdf
 
 - I'm currently learning - NextJs, nVim
