@@ -1,6 +1,6 @@
 s\## Bishu Thapae\\s
 sdf
-About me
+About mesdf
 
 - I'm currently learning - NextJs, nVim
 - [site](https://bishesh-thapa.com.np)
