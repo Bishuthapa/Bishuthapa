@@ -1,4 +1,4 @@
-s\## Bishu Thapae\\
+s\## Bishu Thapae\\s
 
 About me
 
