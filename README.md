@@ -1,4 +1,4 @@
-## Bishu Thapa
+## Bishu Thapap
 
 About me
 
