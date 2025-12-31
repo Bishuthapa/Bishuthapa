@@ -1,4 +1,4 @@
-s\## Bishu Thapae\
+s\## Bishu Thapa
 sdf
 About mesdf
 
