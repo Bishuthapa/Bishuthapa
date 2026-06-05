@@ -2,7 +2,7 @@
 
 About me
 
-- I'm currently learning - NextJs, nVim
+- I'm currently learning - .NET ,nVim
 - [site](https://bishesh-thapa.com.np)
 - [Blog](https://bishesh0.com.np/blog)
 
