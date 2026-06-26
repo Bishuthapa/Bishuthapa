@@ -2,7 +2,7 @@
 
 About me
 
-- I'm currently learning - .NET ,nVim
+- I'm currently learning - .NET ,nVim, SQL
 - [site](https://bishesh-thapa.com.np)
 - [Blog](https://bishesh0.com.np/blog)
 
